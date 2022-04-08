@@ -1,6 +1,6 @@
 package io.khs.jdkpractice.factory;
 
-public interface JdkIterface {
+public interface JdkInterface {
   void launch();
 
   JdkEnum getJdkVersion();
