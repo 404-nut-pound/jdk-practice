@@ -1,6 +1,5 @@
 package io.khs.jdkpractice.launch;
 
-import io.khs.jdkpractice.factory.JdkAbstract;
 import io.khs.jdkpractice.factory.JdkInterface;
 import lombok.extern.slf4j.Slf4j;
 
